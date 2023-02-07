@@ -1,0 +1,5 @@
+const subTwoNum = (a,b) => {
+    return a-b;
+}
+
+export default subTwoNum;
